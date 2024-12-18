@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">eva4final</string>
+    <string name="cargando">Cargando...</string>
+    <string name="lectura_tiempo_real">Lectura Tiempo Real</string>
+    <string name="cargando1">Cargando...</string>
+    <string name="aplicaci_n_destinada_al_monitoreo_de_fugas_de_gas_o_detecci_n_de_humo">Aplicación destinada al monitoreo de fugas de gas o detección de humo</string>
+</resources>

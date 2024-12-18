@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    >
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/lectura_tiempo_real"
+        android:textSize="39sp"
+        android:textStyle="bold"
+        android:textColor="#3F51B5"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="24dp"/>
+
+    <!-- Lectura de datos en tiempo real -->
+    <TextView
+        android:id="@+id/textData"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/cargando1"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:textColor="#255"
+        android:layout_centerInParent="true"/>
+
+    <TextView
+        android:id="@+id/footerText"
+        android:layout_width="wrap_content"
+        android:layout_height="42dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="16dp"
+        android:text="@string/aplicaci_n_destinada_al_monitoreo_de_fugas_de_gas_o_detecci_n_de_humo"
+        android:textColor="#255"
+        android:textSize="11sp" />
+</RelativeLayout>

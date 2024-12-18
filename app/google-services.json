@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "189419263175",
+    "firebase_url": "https://eva4-272a9-default-rtdb.firebaseio.com",
+    "project_id": "eva4-272a9",
+    "storage_bucket": "eva4-272a9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189419263175:android:f3f75225d108253270dae2",
+        "android_client_info": {
+          "package_name": "com.example.eva4final"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC92lRDCMVuApFbv9Bf0dxja7xhkAhCM8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
